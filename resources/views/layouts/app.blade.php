@@ -47,7 +47,7 @@
     
     <footer class="footer text-center py-3 mt-4">
         <div class="container">
-            <span class="text-muted">© 2023 User App. Todos los derechos reservados.</span>
+            <span class="text-muted">© 2025 Fco. Javier Martín Mariscal. Todos los derechos reservados.</span>
         </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
