@@ -40,7 +40,6 @@ Nos mandarán un correo de confirmación para poder usar completamente la app.
 - **Base de Datos:** MySQL / PostgreSQL
 - **Autenticación:** Laravel Breeze / Laravel Jetstream
 - **Frontend:** Blade, Bootstrap / TailwindCSS
-- **Middleware:** Laravel Sanctum / Spatie Roles & Permissions (si aplica)
 
 ## 📂 Instalación y Configuración
 
