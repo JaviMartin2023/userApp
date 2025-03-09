@@ -26,6 +26,9 @@ UserManager es una aplicación web desarrollada con Laravel que permite gestiona
 
 Nos mandarán un correo de confirmación para poder usar completamente la app.
 
+![image](https://github.com/user-attachments/assets/f9849748-6779-4c77-854c-e8758c576ebe)
+
+
 - 📊 **Panel de administración**
 
 ![image](https://github.com/user-attachments/assets/410f6734-5d66-49d6-8699-7ad0f6208c3e)
